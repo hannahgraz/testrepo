@@ -1,0 +1,207 @@
+GPGL log file for Silhouette StudioÂ® Wednesday, August 23, 2023 7:09:40 PM
+
+(status)
+FG(T)
+(status)
+TB71(T)
+FA(T)
+TC(T)
+FG(T)
+(status)
+TB71(T)
+FA(T)
+TC(T)
+(status)
+==============================================================================================
+Send Cut Job to Cutter
+SHA=c67c211fc0
+VER=4.3.341ss SS
+Model = CAMEO 3
+Firmware = V1.60
+Connection = usb
+Session info:
+Document Name=Untitled-1.studio3
+        Reg Marks=OFF
+
+        After Cut Job=RETURN TO ORIGIN
+        Additional Advance=0.000
+
+        After Cutting Layer=AWAIT CUTTER READY
+        After Cutting Panel=AWAIT CUTTER READY
+        Auto-Weld=False
+        Convert Strokes to Outlines=False
+        Copies=1
+        Send Cut Job Uninterrupted=False
+        Panel Separation=25.000
+        Sort Interior Contours First=True
+        Sort Layers=USER
+        Sort Mode=MIN ROLLER MOVEMENT
+
+        Matrix Copies : 1x1 / Separation=25.000,25.000
+
+        Cross Cut=OFF
+(status)
+TG1(T)FN0(T)TB50,0(T)\30,30(T)Z6066,6066(T)J1(T)
+FX10,1(T)!5,1(T)FC0,1,1(T)FE0,1(T)
+FF1,0,1(T)FF1,1,1(T)
+FX10,1(T)FC18,1,1(T)TF1,1(T)
+(status)
+M365,570(T)BE1‘•¢•¥•¥’™‘“«’™’–•œ–”™–”™’™•Ÿ’›”³’»‘¤ŽŸ©™‘˜‘–“–”˜“˜‘˜–Ž”“‹’‰‘ˆ‘Š‘‹‘Š‘‹Ž‘Ž”‹”ŒŒŒŒ’‹’‰ˆŠŽ‹ŒŒŽŽŽˆ‚Ž‰ŽŽŒŽ„ˆ‹’‹’Œ”Œ”‘Ž‘Ž’‹•“Ž”Š™‹™‹™‰›ŠžŠ›Œœ›Ž›œ—Ž—Ž–ŽŸ‘Ÿ•Ÿ•¤“›’–•š–˜•˜•˜–›•—•—•˜•˜“”’’–•“’”’£’œ”Œ”•Ž””Œ”–Ž•“BE1›‰•‹”Œ’‘Œ’Ž”‹“Ž’Ž–ƒ“‰”Œ˜Šœ‡–•Ž”””’““““’•‘—›‘›‘˜‘•“•’”‘”‘•––—˜šŠ£Ž›§Ž½ŽžŽšŒŸ›ŒšŠœ•Š›Šš‹š‹š‹œ‹œ‹ž‹ Ž™Ž¨ŒŸ‹ ‹£‹¢Ž˜Œ—Œ–‹“Œ“•‹™‘Ž‹ŽŠ‰ŽŠŒ‹ŽŒŒ‘’‹’‹‘Š‘‹’‹“Ž•ŽšŽ—Ž•‹›‰›‡Š™Š˜Ž”Ž•””‘’’““““•Ž–™Œ•Œ”––”Š™Ž”““–—™BE1”“›š––’““””““’““”“’‘’’‘’‘‘˜š••›– •™“”’–—””•“›“•’•”•”– ‹™ŒšŽœ“‘“’“‘”“’•‡“Š•—”•‘•’”’•“•’–•”“Žœ‚˜ˆ”Š‘Œ‹Š‹Œ’”•Ž”’Ž’Ž’Œ–‡“Œ‘Š’Š’Ž’—–Œ’ˆ‡ŽŒ‡…Œ‹ŽŒŒŠŠŽŒŽŽˆŽŽ’‹’Œ“”’ŒŽ‹Œ…†‡‡ˆ‰‡ŠŒ‹…•Š“‰‹Ž‹‹Ž‹ŽŠŠŒ
+BE1‘Œ™€™–†•‡–†•‡•‡—… q”†•ƒ•ƒ–•”‚•–}•…•ƒ•‚•„–€–’ˆ’’ƒ”„•…–‰–‹—‹˜Œ˜Š‹›Œ ‹¦‰£Š ŒšŽœ¥ŽšŸœ˜’’’’’”—–š•š•›“—” ’žž´žŽ›Žš‹›Š¡‹ŸŒŸŠ£‹¦Œ¥Šªž™‹ž‹œ‹š‹š‹›‰Œ™‹—‹›Šœ‹›ŒšŠ‹œŠœŒ˜‹š‰š‹™‹™‹™‹™‹™‹šŠ™‹™‹™‹–Š˜ˆ—Š”‡•‡–ˆ—Š“Œ“†—‹”‰˜¢}¦ˆ—Œ“‰•Š”Š“‰“…•ˆ•BE1Š•‹”˜—‘•’”“•——–“˜’œ‘œœª‹¢‹¤Š¡Œ¡ŒŸŒ¢‹¢‹˜šŒ™‹•Œ“‘Œ‹‰ŒŽ‰Ž‹‹‰~Žˆˆ‘Š“‹–‰~œ‚–‰•‰”‹–‰—‡˜…–‰’“Œ”Š–‰–ˆ–ˆ™„˜„–‡–‡•‰“Œ’‹–†“Š“ˆ•„”‚”“‰”‚“†“ˆ”„•‚–„˜~˜‚•ˆ–‰”Š™‚›–ˆšƒ—…•‰—†ž|”Š•ˆ•‡•ˆ•‡–†•…“‹“Š”Š–†•†”‹—„•‰”Š–‡–‡–‡”Š”Š“‹“Š•†’‘‹‹ŒŠ‹‡‹‡BE1Š„Œ†ŒŽŠŠ‰‘”“‡’‡’vƒ‡Ž‡‰Š‹‡Œ‡Š…Š…‹ƒ‹„‹„Š‚‹ƒ‹„Œ…Š‚‹„‹‡‰„Œ‡Ž‹‹ŒŽ‹ŒŠˆŒˆ‹‡Šˆ‹†‹†ˆ…Œ„Š‹}‹~‹}‹zŠ{Œ€‹€ŠŠ€‹…Œ…Š„‹†Š„‹†‹†‹†Œˆ‰„Œˆ‹…‚vŠ„‹…ˆ€Œ‡‰‘‰”Š’Œ‘Œ“€”t”|‘‹Œ‹‹Š‰‹ˆ†‹ƒ‰…‹…‹‚‹‰ˆŽ‹ŒxŠ|Œ|~€’ƒ’’Ž”•”“‘“”—–——”•“–•›ž œšœ–›”™”š
+BE1– ’–’•““•“’‘“›Œ˜•”——–š˜œ–˜•—•˜”—”™•š“™• –¡•¡”•£–£•¡•Ÿ– •ž•›–ž•¡’™’ž“¸”­“®”°˜¯•£“›‘ž‘ ¢Ž¯¤§ ‰žˆ¢Ž“‹“Š’€|Ž„Ž††‹ƒ‰‚Š‚‹‡Ž€m‡Š„Œ„ŠŠŽˆŠŽ‹ŽŒŒŒŒ‹ˆ‡Ž‰Ž{…Ž‡ŠxŠt{wŒ{~‚ŒˆŒ„Š‹…Š„‹…Œ†‹…Š‚€m‹†‹…Š…ŽŒŽ‹ŠƒŒ‡Œ‚…Ž‘Ž‘•”‘“‘“’‘“—š•–•“(T)
+BE1—’””Ž•Œ““’““‘•‘’”Œ“‹“Š“‹“‹•Œ–•Ž’‘‹Šˆ‰‘Š’Š‘‹‘Š‹’Ž“ŠŽŒŽŽ’Ž’Œ‘Œ‘ŒŒŽŒ‹Ž‹ŽŠŽŒŒŽ‹‰ŒŒŒ‹‰‹Š‹Œ‹‘‰‰ŠŠŒŒŒŠŽˆ‚‘‘‹’ŽŽ‹ŒŒŒ†„‹‹‹ŠŒ‹ŒŽŽ‘‹‘‰“ˆ’‰‘Š’Š”‰•‰”‰“‡”Ž’Ž’“Œ“†”Ž’Ž“‰˜|¥Œ•Ž”•—‘˜Ž“Ž”‡—Œ’“‡¢‰ž›“š“™’Ž’‘Œ‘Œ’‘BE1“‘““““’”’™•“’•š‘—’”‘’’—Ž—Œ”’“’’’‘•—‘œ’—‘’“’˜•™”•••––’•’”•Ž–••ŽšŽ˜™•™–”“››•“—•‘’‘’”œ—¦•¢•¤M4365,751(T)BE1‹ŠŽ‹ŽŠŠ‘‰“‹™‰ ˆ¢ˆŸŠšŽ™™™˜‘—’—“—“–”••••”–“—“—‘˜‘™—Ž—‰ž‹˜ˆ—†•„“ƒ‘„ŠŒˆ‹€ƒ‚„Œ‹ŒŽŽŒ‹Š‘ŒM4582,1023(T)BE1ŠŒ’Œ’Š–‡˜‰”•›Ž–‘•‘–“•“””””“–“•’—‘••Ž—‹œ”Œ”Œ’‹’‹‘‰‰ŠŠŽ‹ŒŒŒ‹‹‰Žˆ‰‘‹“‰–ˆ–‰(T)M4624,1214(T)BE1“ƒ’Œ’‘‘Ž‘Œ’Œš‡šˆ•Ž”••“•‘“›•—•–•–—”˜”˜’˜’™™šŽ–Œ˜—Š˜Š–’Ž‘Ž‘“‡”†”„‘……Ž‡‹†‰ˆ‰‹‰ŠƒŽ‹ˆ~‘ˆ‘ˆ’‹‘’‘‘Ž’—‰(T)
+M4730,992(T)BE1‰‰‰ˆ‹Ž‹Š‰‰‘‰’Š’Š”‹”‹”Œ–™›Ž›™’—”–”–•”•“–“–‘˜—˜–Ž••‡š†—…•…‘……Œ‡ˆ‡†ŒˆŽ†(T)
+M4832,1111(T)BE1Œ‘†‘‘Ž’‘‘Ž’Œ™ŠšŒ•Ž•˜—’–“••••“–“–’––––Ž•ŠšŒ”Œ“Œ’‹’…‘…‡ˆ‹ŠˆŠŽ‹‹Š‘†‘‘Ž’‘‘Ž’–‹(T)M4931,656(T)BE1ˆ„‘~‘‹’“Œ’Œ”Š™ˆ•Œ–—–—–—‘—‘˜“—“˜•––––•–“—’—‘›œŽœŒ˜Œ–”Ž’’Œ”ˆ—ˆ”Š“‰‘†‡ˆŽ‰‰ŠŒ‹ŠŠŠŠˆ‹Ž‹ˆ„„‘ˆM5001,281(T)BE1†‹‰‹…‚ŠŽŒŽŽ‹Œ…Ž‡‰‘‰’‡“…”†–†—ˆ—‰šŠšŠ›Œ™Ž˜™™‘˜’™“—”—•™˜™š—™’”‘“‘”’•’“•‘Ÿ›—Ž—Œ™‡žŒ•Š–Š”ˆ•}™‡’„‘…ŒŽŒŽŒŠŽ‰ˆ‹ŠŒ‰ˆ‹ˆM5294,649(T)BE1“†“‡”‰•Š•Š•‹–Œ–Œ—–Ž•“Ž—Žžž–’“’•‘—“˜”—•–––—•˜“˜“—“œ‘“‘• Œœ‹š‹š‰˜ˆ—†•…•„“…‘ˆŒ…‰Š‰Š‰‰ˆ‡Œ‰ˆŽ†Ž††’†’‡“‡•ˆ–ˆM5551,470(T)BE1ŽŒ‰’‹–…•„“…‘ŒŽŠŒƒ‰„‹ˆŠ‹ŒŽŽ‘Š“ˆ”‰“Œ‘Ž‘‘Œ“Š“Ž“Ž””˜“’–”š•›”—’’’Ž–‡—€•ˆ‘Ž“Ž˜Ž•”‘”‘–“—””’•‘–”–•”“‘“•“Ž–…§—“‘“’“”’———•”“‘•‘•ˆ¡‰›‹˜‹”‹‘‹ŠŽŠŽ‹ŽŠŠŠŒ’Œ•Œ™ˆ£‹’Ž‘‡ˆŽ‰Œ‡‰Š‹‡‹ŒŽŽŽŒ‰’‹”ˆ•†(T)
+M5549,189(T)BE1}‰c€x‰„Œ†…€‹Œ…Š‹x‹g‡p‰†Žˆ‡†Žz‹sŒbŠcŒg‘t”r—t—{˜€—‡”Š“Œ“‹‘‹“Š”…˜„š‚„žˆ›‡žŽ”””Ž•Ž•Ž˜¤Ž¤˜‘–”¨‘š“œ”œ“™—¢•œ”˜“™‘›œ•“Š¤‰¯Ž–Ž•Ž”Ž–Ž—Ž–ˆ£Œ›Œ—Ž””“’Œ•Š”Š‘ˆŽ„Œ‰‚ˆy†v‡ŒŽŽŠˆŠˆŽm‰{Œxv‘|’“–t™†—‡—‡˜ˆ™Š˜„ ‹š‹›Œš——›ŽBE1›šŽ˜Œ–Š•ˆ–†˜w§‰—‹“Œ‘‹–‰™‡‡›‹—“”“Ž’“Ž•Šš‹›‰¢‹™–—‹¢‰©¤Ž¥­«‘¡’”Ÿ—®”š”œ›§œ¥–˜•––•”’”•“’Œ‹Ž‹‰…~‹ˆŽ‹‰‹„†Œ~Ž‰Ž†Žvs’s’v“€’ˆ‘Š”‚˜x™y“ˆ“‹“Œ’Œ“Š–‡ z˜ˆ•‡–ˆ˜‡Ÿ—Š—Š˜‹—””‘••˜š›Ÿžž›˜¡™ž•Ÿ“¡ œ›Œ›Š—‹—Š•Š–‰˜‚•“€ˆˆŽ‰Žˆ‰Œ‰‰…‡†BE1†‡‡‰ˆ‡‡††…‘…‘†“{•†”‚–†•‰’ŒŽŒ‘†’†“†™™‚›„…‡ ‡ ‰£ŠœœŽŸ¨¶›’š’·š«˜¥˜œ”£˜¢˜˜•›•˜”••‘“‘”—›Šœˆ¡{¹… ‹—Ž•ˆ~«}¬„ ‡–ƒ—ƒ–†’Ž‘Ž’Œ’Œ‘Œ‘“‹”ˆ•„—„™v¦„œ†›‡š‹™‡ ˆ‹š‰¤Œ œ¤‘¥‘ž’ž•£–§•œ”˜—™ š ¥¬Ÿ£¡£¦¨¯®«« ¤¢¡Ÿ¢žª¥¦¢•””’’‘“””““‘”’—•Ÿ›£›˜
+BE1—”›—©¢œ˜”’˜•¤ œ›œ˜™“’“‘–“œ—£—œ˜˜•–’•’˜–—•”’°Ÿ°Ÿœ•£˜¤—¦—œ’¥’¦‘¤›Ž›š™™‹™‹™Š™‰™‡˜„—ƒ•€”~“|’zwuŽyŒ|Œ~ˆuŒ‹€‹ƒŒ‡Š‚ŠyŠvŒyŒrŽ€‘‘~‘““€“–}“‡”‡x–„’Š˜€•…’‰’‹”†v nœu’‹’”‹”‡–‚—„Ÿuvš•‡—„ w›œ‚‚ž…¢ƒ „¤„¤„šŠ›Šž‰–šŒ¨†£‰¦‰–Ž–”•Ž—Ž›©Š©ˆBE1¡‹œŠš‹–Œ™‰š‡˜ˆŸ{˜ƒ“‰”…“ˆ’Š“~’…‘‡‡†Œ…‡ŒˆŒ‰‡„†„‹‹ƒ……†„ˆ‚ŠŒŽŽŽ‹‡‹yƒˆ‹‹Ž…‹z†q~ˆ}‰†‹Š‹‰…ŒŠŽŒŠˆŠŽ‡„‹„‹…Œ‚ŒŠ}‰M5598,5355(T)BE1™”™–˜˜™š—™’”‘“‘”’•‘“‘•‘Ÿ›—Ž—Œ˜‡žŒ–Š•Š•ˆ•~™†’…‘…ŒŽŒŽŒ‹Žˆˆ‹‹Œ…‚ŒŠŒŽŽ‹Œ…Ž†Š‰’‡“…”†–†–ˆ˜‰™ŠšŠ›Œ™Ž˜™˜‘™’˜“˜”—•—–—˜M5528,5622(T)BE1šš’˜’—”—•—••–•—”—’—‘šŽ›™Œ–Œ“Ž’“Œ”‡–‰•Š’‰‘†‡ˆ‰ŽŠŠŒŠ‹Š‰ŠˆŽ‹Ž‹‰„‘}‘Œ’“Œ’‹”‹˜ˆ–Œ–––Ž——–—’™“™•(T)
+M5550,5863(T)BE1›Œ•“Ž–Žžž–’“’•‘—“—”—•–––—•˜“˜’—”œ‘“• œ‹›‹™‰˜ˆ—‡•…•„“…’ˆŒ†Œˆ‹‰Šˆ‰‰‡Œ‰ˆŽ†‡…‘†’‡“‡”Š•‰•Š•‹–Œ–Œ–—Ž•“Ž–ŽM5764,5736(T)BE1Œ‰’‹–†•ƒ“…‘ŒŽŠŒƒŠ…Š‡‹‹‹‹‘‹“ˆ”ˆ“Œ‘Ž‘‘Œ“‹“’Ž”•—“’–”š•š”—’“’Ž•‡˜€”ˆ’Ž’Ž˜Ž•”‘”‘–“—””’”‘–”–•”“‘”‘”“Ž–…§˜’‘“““”“—œ–—•””‘”‘•ˆ¡Š›Š˜‹”‹’‹ŽŠŽ‹ŽŽŽŽŽ‹ŽŠŠŠŒ’•‹™‰£ŠŽ“ˆˆŽ‰Œˆ‰‰‹ˆ‹‹ŽŽŒ‰’‹•ˆ”†(T)
+(status)
+L0(T)J1(T)
+FX10,1(T)!5,1(T)FC18,1,1(T)FE0,1(T)FF1,1,1(T)FF1,1,1(T)
+FX10,1(T)FC18,1,1(T)
+TF1,1(T)
+(status)
+M489,4763(T)BE1”Ž”Ž•••Ž••–›™‘˜‘˜‘—’—“–”•”••”•”•“–“–’–‘—‘–—•””Ž””Ž””Ž”‰˜‰—‰–‡–†•…–„•ƒ•‚•‚”ƒ”‚”t—o—“€“•~”–€•—ƒ–„—…˜†˜‡˜ˆ”••”Ž•••Ž••”(T)M373,4950(T)BE1¤£Ž£Ž¥¥PŒuŽyŽ|ŽŽŽƒŽ†Žˆ‹ŽŽŽŽ‘‘Ž’Ž“Ž—Œ›Œ™œ­Šµˆ¾ˆÈ†£‘M414,5259(T)BE1’–‹–Š–‹˜Š˜‹™Œ˜Œ™™™š™™‘™‘”‘“’“‘“’•”””‘’‘’‘’’““Ž”Ž””Œ”Œ”‹”‹”‰”ƒ˜€˜~—us‡Ž‹Œ‘Œ’‹’Š”‹”Š–‹–Š–‹˜Š’M342,5345(T)BE1¤Ž¥Ž¥w wžvžvžvœ…•„”…”†”‡“†’‘‡‘Š‘ŠŠŒŒŽŽŽŒ’Œ“Œ”‹•‹—‹—ŠšŠšŠ›‹›Š‹žŒŸ‹¡Œ£Œ£¤Ž¤Ž
+M414,5501(T)BE1’Œ–‹–Š–‹˜Š˜‹™Œ˜Œ™™Ž™Žš™™™‘”’“‘“’“‘•”””‘’‘’‘’’“”Ž“Ž””Œ”Œ”‹”‹”‰”ƒ˜€˜~—us‡Ž‹Œ‘’Š’Š”‹”Š–‹–Š–‹˜Š’M342,5586(T)BE1¤Ž¥Ž¥wŸwžvžvžvœ…•„•…”†“‡“†’‘‡’ŠŠ‘ŠŒŒŽŽŽŒ’Œ“Œ”‹•‹—‹—ŠšŠšŠ›‹›‹‹ž‹Ÿ‹¡Œ£Œ£¤Ž¤ŽM354,5698(T)BE1ŽŒŒŽŽ‘’Ž“””••‘•‘–’”’”“”“’’’’‘“‘““’Ž’‘Œ‘Œ‘‹‹‹‹Ž‹ŽŒŒŽŽ‘’Ž“”“(T)M404,5881(T)BE1‘‘Œ“Œ”Š–‹—‹—Œ™ŒšŒšŽœŠš‰š‰˜ˆ˜Œ”Œ“Œ“Œ’Œ’Œ‘‹‘ŒŽŽŽŽ‘‘Œ“Œ”Š–‹—‹“Ž(T)M389,5839(T)BE1Ž•—˜——‘—“•“–’’’““’’‘“’”“‘”–––Ž•–•–‹•‹š†˜„˜„—„™š˜—‘—‘•’–’”“”“““’“’“‘“‘“‘”“”“–•Œ–‹–†›†š„š‚œw¢yŸŽ’“’‘“’’’‘““¢„ž††¢‚™‰˜ˆ˜‰–ˆ–‰•‰•ˆ“‰‘Ž’Š‘‹‘‹ŠŠŠŽŠŽŠŒŠŒ‹ŒŠŠ‹ŒŒ‹Œ‹ŠŠŽŠŽŠ‰ŽŽ’¡„‡‘‘‘˜‰—‰–‰•Š”Š“‰’Š‹‹‹‹ŽŒŽŒŒŒŒŒ
+BE1Œ‹Ž‹Ž‹ŽŠŽŠŠ‰Œ«…¨…¢†‘•™Š˜‹—‹•‹•‹“‹’Œ‹ŒŽŒŽŽŒŒ‹ŽŠ‹Ž‚ŒwŒsŸ‰ˆš‰˜ˆ˜‰“‹“Œ’Œ’Œ’Œ’‹‘Œ‘‹Œ‹ŒŒŽ‹ŒŽŒŒŒŒŒŒ‹ŠŠŠ”Ž¨…¢‡‘•Œ™‹˜‹—‹•‹•‹“‹’‹ŒŒŽŒŽŒŽŒ‹ŽŠ‹Ž‚ŒwŒsŸ‰ˆš‰˜ˆ˜ˆ“Œ“Œ’Œ’Œ’Œ’‹‘Œ‘‹Œ‹ŒŒŽ‹ŒŽŒŒŒŒŒŽŒŽBE1‹ŽŽš¦ˆœŒ˜‹˜‹—‹”“’’’Œ‘Œ‘Œ‡ˆŽˆŽ‰‰ŒŠ‹Š‹‹ŠŒ‰‹ˆˆŒ†Ž†…Ž„ƒŽ}RjŽ‘z’z’|“|®ŠªŠ©ŠªˆœŒœ‹›Œš‹™‹™‹™Š˜Š—Š—‰•‰•‰“ˆ“ˆ‘ˆ‘‡‰ˆ‰Ž‰‰‰ŒŠ‹Š‹ŠŠ‹ˆ‹ˆŒ‡††…‰Š‘Š‘Š‘‹‘Š’‹’Š’‹“‹“‹“‹”‹”Œ”‹•Œ”ˆ›ˆœ‰‰ŸŠŸŠ¡‹¢‹¤Œ¢¢T›a™j—€”ƒ“„“†“‘…”‡•ˆ”‰•“Ž’Ž“Ž“BE1““““‘•‘”’•””””•”—“™“¡• ”š‘›’œ‘Ÿ’Ä”Ë“—£§“’’’‘“‘’“‘Ž‘y~¬‘§‘Á”©“›‘š’¢”¡”˜“—“–“”“””“”‘”‘”““’Ž“’’Ž“Œ’‰”Š”ˆ“…”}—z–…”Š…„’…’…”†”…–†–†—‡˜ˆ˜‰˜‹˜‹˜˜”””•™‘•‘”‘“’”‘“’“y’z’{“|”|•}•~–—‡”‡•ˆ•ˆ•‰•‰•Š•‹•‹–Œ–Œ•Ž–––––‘•”’•‘”““““““
+BE1”’”’•‘•‘–‘––——Ž‘š››Œ‹‹Š®­¬¬¬~¤‘£¡‘¡‘«“›‘™’—‘—’–’•’˜““’‘’’’“‘Ž’’Œ“Š“‘ŽŒ“’~˜{™~˜†‘†‘†’†“‡“‡”‡•‡–‡—‡˜ˆ—‰˜‹˜‹˜™””””™‘•‘”‘”’“‘”’“y‘z’{“|”|•}•~–—‡•‡”ˆ•ˆ•‰•‰•Š•‹–‹•Œ–Œ•Ž–––––‘••’”‘”““““““”’”’•‘•‘–‘‘––——ŽBE1‘š››Œ‹‹ŠŸ‰Ÿ‰­¬€¬¬¤£¡‘¡‘«“›‘™’—‘—’–’•’˜““’‘’’’“‘Ž’’Œ“Š“‘Ž‘Œ’’ƒ–—kŸ{™Œ€‘’‚’ƒ’…“†“‘““Ž””””‘”‘”’”“’““”’””•›ŽœŽŽœœ’•‘•‘”‘”’”’“’““’”‘”‘”Ž”‹”Š—‡—‘ƒš€›|œ‹†‘‡’‡’‡’ˆ”‰“‰•‰”‰–‹—‹–Œ———˜——‘•
+(status)
+L0(T)\0,0(T)M0,0(T)J0(T)FN0(T)TB50,0(T)
+(status)
+==============================================================================================
+Send Cut Job to Cutter
+SHA=c67c211fc0
+VER=4.3.341ss SS
+Model = CAMEO 3
+Firmware = V1.60
+Connection = usb
+Session info:
+Document Name=Controller Pencil Box.studio3
+        Reg Marks=OFF
+
+        After Cut Job=RETURN TO ORIGIN
+        Additional Advance=0.000
+
+        After Cutting Layer=AWAIT CUTTER READY
+        After Cutting Panel=AWAIT CUTTER READY
+        Auto-Weld=False
+        Convert Strokes to Outlines=False
+        Copies=1
+        Send Cut Job Uninterrupted=False
+        Panel Separation=25.000
+        Sort Interior Contours First=True
+        Sort Layers=USER
+        Sort Mode=MIN ROLLER MOVEMENT
+
+        Matrix Copies : 1x1 / Separation=25.000,25.000
+
+        Cross Cut=OFF
+TG1(T)FN0(T)TB50,0(T)\30,30(T)Z6066,6066(T)J1(T)
+(status)
+FX10,1(T)!5,1(T)FC18,1,1(T)FE0,1(T)
+FF1,1,1(T)FF1,1,1(T)
+FX10,1(T)FC18,1,1(T)TF1,1(T)
+(status)
+M127,170(T)BE1¤ž“ž“”œ–œ—›˜š˜šš™š˜œ–›–•“’ž‘žŽ‹œŠ›Ššˆš‡˜†˜†—…–„”„”ƒ’‚‚ƒŽ‚ŒƒŒ„Š„‰…ˆ…ˆ‡†‡†ˆ…‰„‹ƒ‹ƒƒŽ‚‚‘ƒ’ƒ“ƒ•…•„—†˜†™ˆ™ˆ›‰›ŠœŒœž‘¤(T)M314,446(T)BE1|~‘~’~•€–€˜™‚šƒœ……ž‡žˆ Š¡Œ¡¢£‘¢“¢”¢– ˜ ™Ÿ›ž››ž›Ÿ™ — —¢”¢“¢‘£¢¡Œ¡‰Ÿ‰Ÿ‡ž……œƒš‚™˜€–€•~’~‘~}Ž~‹Šˆ€‡‚†‚„ƒƒ„‚†‡ˆŠ‹~Ž}|‘M423,370(T)BE1Žšš˜‘—•ž—™››™—ž”—’˜˜—ŽžŒ‰›‡™…—ƒ•‚‘‰ˆˆ‰‹‚‰ƒ‡……‡ƒ‰‚‹‰ˆˆ‰‘‚•ƒ—…™‡›‰‹ž—˜š’š(T)M523,719(T)BE1’ƒ’Œ’‘‘Ž‘“Œ™‡›ˆ•Ž””•Ž”•œ‘ž”›”—•––•—•—“˜“™‘˜™šŽ–˜Œ—Š˜Š–Ž’Ž‘Ž‘‘Œ“ˆ”…“…‘„††‹‡Šˆˆ‹‰‰„Š‰~‘‡’‰’‹‘Ž‘‘‘Ž‘’–‰
+(status)
+M435,1061(T)BE1‘†‘†ƒŽƒ„Œ„Š…Š…ˆ‡ˆ†‡ˆ†‰†‰…‹„ŒƒŒ„ƒƒ‘ƒ‘„”„”…•…—†—‡˜ˆšˆ™Š›‹›‹œœŽ’“œ•œ•›–›˜™˜™™™š—›—›•œ”œ“’‘œŽœŒ›‹š‰š‰™‡˜‡˜‡–…–…”„“„’ƒ‘ƒ††(T)M5390,214(T)BE1Ž¤‘Ÿ’ž“•–—›˜›ššš™š˜œ˜œ••ž”ž’ž‘ŸžŽŒ‹‹›ˆ›ˆš‡™†˜…˜…–ƒ”ƒ”ƒ’‚‘‚Ž‚Œ‚ŒƒŠ„ˆ„ˆ†‡†††…ˆ…‰ƒŠƒ‹ƒ‚Ž‚‘‚’‚“ƒ•„–„—†˜†š†šˆš‰œŠœ‹žŽžž’¤(T)M5411,547(T)BE1Ž¤‘ž’Ÿ”••œ˜œ˜›™šš™›˜›—–•“ž“Ÿžžž‹œŠœ‰šˆš‡š†˜…—„–„•ƒ“ƒ’‘‚‚Ž‚‚‹ƒŠ„‰„ˆ…†††‡†ˆ„‰„Šƒ‹‚‚Ž‚‘‚’ƒ“ƒ•ƒ–…—…˜†™‡šˆ›ˆœ‹œ‹ŒžŽžž’¤(T)M5434,896(T)BE1¤Ÿ“ž“•–—›˜›™šš™›™œ—œ–”ž”ž’ž‘žžŽžŒŒœŠœ‰›‡š‡™†˜…—…–ƒ•ƒ“ƒ’‚‘‚Ž‚‚‹ƒŠ„‰„ˆ†‡†††…ˆ„‰„ŠƒŒ‚Œ‚Ž‚‚‘‚’‚”ƒ”„–„—…˜†š‡šˆš‰œŠœ‹žžž‘¤(T)M5679,337(T)BE1Ž¤‘Ÿ’ž””–—›™›™šš™›˜›—–•”ž’Ÿ‘žžŽžŒœ‹Š›‰›ˆš‡š†˜…—…–ƒ”ƒ”ƒ’‚‘‚Ž‚Œ‚ŒƒŠ„‰„ˆ…†††‡…ˆ…‰ƒŠ„‹‚‚Ž‚‘‚’ƒ“ƒ•ƒ–…—…˜†™‡š‡›‰œŠœŒŒžŽžž’¤(T)
+M5810,671(T)BE1–‰™Š™››™’—“–”–•”•“–“—‘—˜˜•Ž••‡š†˜…”…’…Ž…Œ‡‰‡†ŠŽ‹‹ˆ‰‘‰’Š’Š”‹”Œ”Œ–Œ˜›M5699,4863(T)BE1|‚‚’ƒ”„”„–…—†˜†˜‡šˆšŠ›Šœ‹Žž‘ž’“•–›–œ˜š™šš˜š˜›—œ–œ”“ž“žžœŒœŠ›‰›ˆ™ˆ™†˜†—„•…•ƒ“ƒ’ƒ‘‚‚Žƒƒ‹ƒ‹„‰…ˆ†‡†‡ˆ…ˆ…‰„Š„ŒƒŒ‚Žƒ|‘M5629,5252(T)BE1|}‘~“”——™‚›ƒ›„†ž‡Ÿˆ Š¡Œ¡¢¢‘£“¢”¡–¡˜ ™žšžœœžšŸ™Ÿ˜¡–¡•¢’£‘¢¢Ž¢‹ Š ˆŸ‡ž†„›ƒ›‚™‚˜€–”“~‘}~~ŒŠˆ€‡…‚…ƒƒ…‚…‡€‰€‰~Œ~~|‘M5841,5177(T)BE1Ž™š‘˜‘˜”ž—œ™œ›™—ž”˜‘˜‘—˜žŒ‰›‡™„—„”‚‘ˆ‘ˆ‰ˆŒ‚‰ƒ‡……‡ƒ‰‚Œˆ‰ˆ‘ˆ‘‚”ƒ—…™‡›‰Œž˜—‘›’™(T)M5812,5838(T)BE1˜›Ž–‘•‘–“•“””””“–“•’—‘••Ž—‹œ”Œ”Œ’‹’‹‘‰‰ŠŠŽ‹ŒŒŒ‹‹‰Žˆ‰‘‹“‰–‡˜‰”•›Žš’™”
+M5750,5867(T)BE1‘‡†‚Ž„ƒ‹…‹…‰…‰†ˆ‡‡ˆ†ˆ…Š…‹„‹„ƒŽƒƒ‘ƒ’„“„•…•†–†˜‡˜‡™‰šŠ›Š›Œ›Žœž‘’œ“”›–œ–š—š™™™˜š˜š–›–œ”œ“’‘ŽœœŒ›Š›Ššˆ™ˆ˜‡—†—†•„•…“ƒ’„ƒ…‡(T)
+(status)
+L0(T)J1(T)
+FX10,1(T)!5,1(T)FC18,1,1(T)FE0,1(T)FF1,1,1(T)FF1,1,1(T)
+FX10,1(T)FC18,1,1(T)
+TF1,1(T)
+(status)
+M149,4213(T)BE1‰‘Š‘Š‘Š’Š“‹“‹”‹”Œ”Œ•–•—–——æ‘ ˜’˜’˜“˜“”’““““’’Ž’“Ž“Ž””Ž”•™š£¦BE2_ BE1-YŽŽŽŽŽŽŽC‘Ž‘Ž’Ž’’’“°“’‘“‘‘“(T)BE22R›BE1•˜•–••“‘“’•’—’—˜‘ã——–––Ž•Œ•Œ•Œ”Œ”‹“Š“Š’Š‘Š‘Š‘Š4‰ŽˆŽ‰‰ŽŽ“Ž“Ž’’’Œ‘Œ’Œ‘‹‘‡‘†‘}z(T)BE2úþBE1óÆ“’‘’‘’‘’’‘’‘’’Ó’“’Ž‘Ž’Ž‘Ž‘oŽŽŽ(T)
+BE2Ñ‘…BE1‹‰‹Š‹‹Š‹‰‰‡<‰‘Š‘Š‘Š’Š“‹“‘M162,4580(T)BE1|A(T)BE2ÔæšBE1ßoBE2Þ BE1±ß(T)BE2„8…BE1A°
+BE2zþBE1p|(T)M103,4765(T)BE1|BE2Üô˜pÖ•¨ò•Üô˜BE1ßsBE2Þ BE1­ß(T)BE24Î…(T)BE1A®
+BE2Üþð£‰(T)BE1ŠBE2H¢‰| BE1­ß(T)BE2,Ý…(T)BE1A­BE2zþBE1sA¤M162,5380(T)BE1‹‘Ž‘Ž’Ž’Ž’’“
+BE2Ä BE1“’‘’‘’’’’‘’‘’“â“’’Ž’Ž’Ž‘Ž‘BE2”þBE1ŽŽŽŽŽŽŽŽ>‘Ž‘Ž’Ž’Ž’’“Ÿ(T)M99,5282(T)BE1‘Œ••–––——(T)BE2<CœBE1‘—‘—‘–“–“–“•”•””•”•”•“–“–’–’–‘—(T)BE2ø BE1——–Ž–Ž–••Œ•Œ”Œ”‹“‹“Š’Š‘Š‘‰‘‰(T)
+BE2<Üƒ(T)BE1‰‰ŠŽŠŠ‹Œ‹Œ‹‹Œ‹Œ‹ŠŠŽŠ‰‰(T)BE2`þBE1‰‘Š‘Š‘Š’Š“‹“‹”‹”Œ•Œ••–––—(T)M103,5623(T)BE1|BE2ôÇ˜•æ—âþBE1sA(T)BE2\$šBE1ßs
+BE2M!BE10BE2ãÍ‡~ BE1­ß(T)BE2$ì…BE1A­BE2zþBE1sA¤
+(status)
+L0(T)\0,0(T)M0,0(T)J0(T)FN0(T)TB50,0(T)
+(status)
+==============================================================================================
+Send Cut Job to Cutter
+SHA=c67c211fc0
+VER=4.3.341ss SS
+Model = CAMEO 3
+Firmware = V1.60
+Connection = usb
+Session info:
+Document Name=Controller Pencil Box.studio3
+        Reg Marks=OFF
+
+        After Cut Job=RETURN TO ORIGIN
+        Additional Advance=0.000
+
+        After Cutting Layer=AWAIT CUTTER READY
+        After Cutting Panel=AWAIT CUTTER READY
+        Auto-Weld=False
+        Convert Strokes to Outlines=False
+        Copies=1
+        Send Cut Job Uninterrupted=False
+        Panel Separation=25.000
+        Sort Interior Contours First=True
+        Sort Layers=USER
+        Sort Mode=MIN ROLLER MOVEMENT
+
+        Matrix Copies : 1x1 / Separation=25.000,25.000
+
+        Cross Cut=OFF
+TG1(T)FN0(T)TB50,0(T)\30,30(T)Z6066,6066(T)J1(T)
+(status)
+FX10,1(T)!5,1(T)FC18,1,1(T)FE0,1(T)
+FF1,1,1(T)FF1,1,1(T)
+FX10,1(T)FC18,1,1(T)TF1,1(T)
+(status)
+M345,635(T)BE1–£“š“Ÿ–ª’œ’ “±’›“—– ”˜”—•›—¡•›“›•¢”ž”»“Å‘¨£Ž Ÿœ™“˜“—•š”š‘š—Ž–Œ“Š’‡‘†‘ˆ’Š’‰‘ŠŒŽ‘’“•Œ‹‹‹’Š“‡‡ˆŠŠ‹ŽŽ†Ž~~ˆŽ‹Ž‰ˆ‡‘‰‘‹“‹•Š•‘ŽŒŒ’’‰—“–‰›Š›Ššˆž‡¡‰Ÿ‹žžŽŽŸŒ™˜Ž˜™™™’™’š“™“›“”ž“˜–œ“–”•–™–š˜—š•˜—š–š“”““˜–““•’˜‘BE1Ÿ‘ ‘”‹•Œ–Ž•Ž•Œ•Œ˜Ž•Ž•†–‹•‹“ŒŒ‘Œ’’”’Ž“—€•ˆ•‹šˆ—Š˜‹—Œ–Ž••‘”’•““”’–’™ž‘ž‘™’—“–“•’•–—Ž˜˜ŒšŒŠ§Ž–—®®Ž¨Ž¢œ‹£ŠŠžŒ—ˆ‰ŠœŠœ–Œ™ŠŸ—šŠ¥›ŽŸŒ®šŽ˜Š¤‰¨‹¦šŒ™Š—Š”‹”–Œ—Ž”‘ŽŽŽŽŽŠŒŒ‰ŽˆŽ‡ŒŠ‹Œ‹“‹“‰‘Š‘‰’Š”“Ž“ŽœŽšŒ–ŠŒ™–„Ÿˆ›BE1‰š•Ž–•”’”’”““‘”–Ž˜ŒšŽ”’‹–—Œ—Œ–‰š•”‘““”™›”•œ”Ž“Œ˜’”””•””““”Ž•““‘’’’’‘’šœ’“•“œ˜˜“œ“›“–’—™•––“”–’—•––˜Ž˜Ž›Œœ‹œŽž””’”’•”Ž’–…”ˆ’Ž”™Œ”–‘—’•“–”—’–‘—•Ž”Ÿ™†–‰‘‹Ž‰Ž‰Š‹’Œ•–•Ž“Ž“’Œ—…“Š’Š“ˆ’’“Ž–Ž•’’Œ‘‹‘Š‹ŒŽ‹„‚Œ‹‹Š‰
+BE1‰‹‹‹ŒŒŽŽŽŽŽ’‹”‹”‹”’Œ‘ŒŽ‹ŽŠ‹Œ‚„…††‡†‰Š‹‘‚–ˆ”ˆ‰‹‹Œ‹‰‰ˆ‹‘Œ›{œ|—ƒ—†—ƒ–…–…˜‚¤j•ƒ—’‰”†—{“‡“„•–{”ƒ”†•‚—€—~–‚”‡“…—{’…“|“•–„—‡—‰™Šš‹šŒ Š˜Œ˜Žž‹£‰«‡©‰£‹œŽŸŸœŽœ¡ ‘•‘”‘“’““•™—œ“•“—–ž’”’••¤’™‘—£»¢ŽœŠžŒ››Š¢Š£Š¦ŒŸŽŸŒœ¢Œ¡œBE1Š¡Œ˜–ŠŠ‰ˆ¡Š›‹˜Œ——‰ŸŠ‹‰ ‰ž‰ž‹›‰œŒ—Œ–•–Šš‰œŠ›Š›—Œ•Šœ‰šŠœŠ˜ˆ™‡˜‰–…–…˜…˜‰”Š”…˜‰–‡˜|¨„„‡™Š”ˆ•‰•ˆ”‡”ƒ—†•ˆ–Š–š˜’—’•”•˜™“’•’š’ž’ ž°Š Œ¦Šª‰ŸŒ¥‹¥‹¢ŒœœŒ¥ŠšœŠ›Š—‹“Œ‘‹ŠŽˆ‹{Ž‡ŽŠ‰~ˆy†‡‘ˆ’Œ’Ž—‡¡zž˜†–‰•‰—‡™†™‚•Š“““‹–ˆ–ˆ˜…—‡›€›‚—…˜…“‹“Œ(T)BE1“‹“Š“Š”‰”‰”‡–€•”~”‡•“ƒ”†”‰’ˆ“ˆ“ˆ—€š{–„”Š—†–‡•‰œž}—†œ€˜ƒ–‡™„›—ˆ”ˆ—†–…—†“Œ“Š“‰“Š”Š“‰”‰”‰”‰—„—ƒ•‰™‚–‡”ˆ˜…—†˜„•‰•ˆ”Š”‰–„’‹‘‹‘Š‹Œ‰‹…‰„‰‹„ŒŠŽŠˆ‡‘‡‘‡’†“…“…’…’‚‘~€„Ž…Œ‡ˆ~‹…Š„‰ƒ‰‚‰€Œ‰Ž‰ˆŒˆˆŒ‡‡‰‰ˆŽ‰Š‰‰Š…ˆ€Œ‹‹ŽŒŒŠŒŠŠ‹Œ‹‰…Š‡Š…Š…Œ‹
+BE1‰Š„Œ‡ŒŽˆŠ‡ŒƒŠyŠz‰yŠtŒ…Š}…‡Š}Œ†Œ†ŠƒŠƒ‰Šƒ‰Š„‰ƒŠ„‹‡ˆŠ…Šƒp‰‚‰‚†|‹„ŒŒ‘ˆ”ˆ“‹’‹“}’}“•x‘Š‹ŒŠŠ‰‡‰‡ŒƒŠˆ‚ŠŠ€‰‡†…ˆ‡„Žrˆy‹wy|’“Œ’•Œ•–“‘•”˜—˜”“•“—”—•˜———¢¤Ÿ œŸ˜ž•š•—£“˜“–“”•”“‘”ž‹šŒ––™˜—œ™Ÿ˜™–š–š•˜–›•”›—¤“˜“”œ“˜’˜“™–§—¨–¥—£
+BE1“š”™—¡–“—”›—¦’š’¢”À•µ”µ“©’ž™¶—©“’¡‘¤¦Ž¶Œ©¬¤ˆ¢…¥”Š”‰“|xˆŽ‹Ž„Š€ˆ‰†Œ~Š†|uŽŽ…Ž‰‹ˆŒ‰ˆ‡‰ŠŽŠŒ‹‹ŒŠ‹†Œ…Ž‡Ž}vŽƒ…„Œ‰lŒwŒqŒu‹{Œ~Œ†‹‚ˆ}Š‚Š‚‰‚‹„Š‚ˆ~„wˆŠƒŠ‚‰ŒŠ‹Ž‰‰€‹…‹Œ‚‘Ž‘Ž‘–•‘”’“’““˜–˜—“˜“”––‹”Œ““Ž“”‘–’“Ž•‹”Š“‰”‰”Š–Œ—Œ(T)BE1–“Œ‘‹‡Ž‡ˆ’ˆ’ˆ’Š‰‘Š’’’‹Ž‹ŽŒ’Ž“Œ’Š‘‹‹ŽŒ‹ŒŠŠŽ‰‹Œ‰ŒˆŒ‹‹‹Š‰ŠˆŠŒ‹Œ‰‘ˆ‡ˆ‰‹ŠŒ‰††Š‹’Œ’‘ŽŽŠ‹‹Œ‹Š‡Š‰‰‹ŠŒˆ‹‹‹ŒŒŽŒ‘‹’‡“†’ˆ’ˆ’‰•†–ˆ•‡”†•’”“Š“Š’‹“““ˆ›wªŒ••—‘˜‘šŽ””‹•Š”‹“”„¥ˆ¢™•”œ”›Ž“Ž’Œ’‹‘‹Œ’’“‘““””“•“–’•“’’’’•ŽœBE1‘™“–‘‘“‘””Ž™‹•““’’“’–˜‘Ÿ‘•‘”“““’š–›•–Œ––Ž——’—“––Ž–Œ—Œ–Žœ–”›–œ˜”“žž–“™–’“‘“•ž”œ”Ÿ—§•£(T)M180,5832(T)BE1™Œš——’–“–•”•”–’–’–‘––Ž–Ž•Šš”Œ“‹’Œ’„‘…‡‰‹‰ˆŠŽ‹‹Š‘†‘‘Ž“‘Ž“Œ˜ŠšŒ–Ž•š‘•’”’
+(status)
+L0(T)\0,0(T)M0,0(T)J0(T)FN0(T)TB50,0(T)
+(status)
+==============================================================================================
+Send Cut Job to Cutter
+SHA=c67c211fc0
+VER=4.3.341ss SS
+Model = CAMEO 3
+Firmware = V1.60
+Connection = usb
+Session info:
+Document Name=Untitled-1.studio3
+        Reg Marks=OFF
+
+        After Cut Job=RETURN TO ORIGIN
+        Additional Advance=0.000
+
+        After Cutting Layer=AWAIT CUTTER READY
+        After Cutting Panel=AWAIT CUTTER READY
+        Auto-Weld=False
+        Convert Strokes to Outlines=False
+        Copies=1
+        Send Cut Job Uninterrupted=False
+        Panel Separation=25.000
+        Sort Interior Contours First=True
+        Sort Layers=USER
+        Sort Mode=MIN ROLLER MOVEMENT
+
+        Matrix Copies : 1x1 / Separation=25.000,25.000
+
+        Cross Cut=OFF
+TG1(T)FN0(T)TB50,0(T)\30,30(T)Z6066,6066(T)J1(T)
+(status)
+FX10,1(T)!5,1(T)FC18,1,1(T)FE0,1(T)
+FF1,1,1(T)FF1,1,1(T)
+FC18,1,1(T)FY1(T)TF4,1(T)
+(status)
+M158,465(T)BE1‹ŽŠŽŽŽ’Ž’Ž’Ž˜Œ›Œ™›­‰¶‰½ˆÈ†Ž£Ž£Ž¥¥PŒuŽxŽ}ŽŽŽƒŽ†ˆŽŠŽŽŽ’Ž’Ž’Ž˜Œ•ŽM161,855(T)BE1—‹™ŠšŠ›‹œŠ‹Œ ‹¡Œ¢Œ¤¤Ž¥Ž¥wŸwŸvžuw„•…”…”†”†“‡’‘ˆ‘Š‘‰‹‹ŽŽŽ‘Œ‘Œ“Œ”‹–‹–Š˜‹™ŠšŠ˜ŒM161,1096(T)BE1—‹™ŠšŠ›‹œ‹ŠŒ ‹¡Œ¢Œ¤¤Ž¥Ž¥wŸwžvžužwœ„•…”…”†”†“‡’‘ˆ‘Š‘‰‘‹‹ŽŽŽ‘Œ‘Œ“Œ”‹–‹–‹˜Š™ŠšŠ˜M311,1145(T)BE1‘Ž’Ž“Ž””••‘•’–’”’”“”’’“’’‘’“““Ž’‘Œ‘Œ‹‹‹‹Ž‹ŒŒ‘Ž’Ž“Ž””••‘’
+(status)
+M387,994(T)BE1‡ŽŒŒ‘’Š“Š”‹”Š•‹–Š—‹˜Š˜‹˜Œ™Œ™™™™š™‘˜‘”‘”’“‘“’•”””‘’‘’’‘’“”“”””Œ”‹”Š”Š”‚˜€˜—ts‡ŽŒŒ‘’Š‘ŽM387,753(T)BE1‡ŽŒŒ‘Œ’‹“Š”‹”Š•Š–‹—Š˜‹˜‹˜‹™™™™™š™‘˜‘”‘”’“‘“’•”””‘’‘’’‘‘”“””””Œ”‹”Š”Š”‚˜€˜—ts‡ŽŒŒ‘Œ’‹‘ŽM467,363(T)BE1‹’‚”ƒ”s—p–““”~••€––ƒ—„—„—‡˜‡™ˆ”•”•Ž•”Ž–•Ž••›™™‘˜’—’—“–”•”•””–”•“–’–’–’–‘——”•””Ž”Ž”Ž””Š˜‰—ˆ–‡–‡•…–„•‚•‚•ƒ”‚”ƒ”Š‘(T)M419,1298(T)BE1˜›ŽŠšŠšˆ˜ˆ˜Œ”Œ“Œ“Œ’Œ’Œ‘Œ‘ŒŽŽŽ’Œ’Œ•Š–‹–‹˜Œ™Œ™Œ››ŽŠš‹—(T)M357,1290(T)BE1”—Ž——˜‘—‘–’–“–’’““’’“‘“‘“‘”‘“‘––•Ž–•–•‹•‹š†™„—„—„šš˜—‘–‘–’•’•“”“““’“‘“’“‘“”“”“–•Œ–‹–†›†š„š‚›w¢y ’’“’“’’’‘’“¢„ž†ž†¡‚š‰˜ˆ—‰—ˆ–‰•‰”ˆ”‰‘Ž’Š‘‹‘‹ŠŠŠŽŠŠŠŒ‹‹Š‹‹‹ŒŒŒŠ‹ŠŽŠŽ‰ŽŠ“Ž …ž†‘‘™‰—‰–‰•Š”‰“Š‘Š‘‹ŠŒ‹ŽŒŒŒŒ
+BE1ŒŒ‹Ž‹Ž‹ŽŠŽŠ‰‰Œ«…¨„£‡–™Š˜‹—‹•‹”‹“‹’Œ‘‹ŒŽŒŽŒŽ‹‹Ž‹ŠŽƒŒwŒsž‰ˆš‰™ˆ—ˆ“Œ“Œ“Œ’Œ’Œ‘‹’Œ‹‘Œ‹ŒŒ‹ŽŒŽŒŽŒŒŒŒŒ‹ŒŠŽŠŠ“Ž¨…£‡–Œ™‹˜‹—Š•‹”Œ“‹’‹‘ŒŒŽŒŽŒŽ‹‹Ž‹ŠŽƒŒwŒsž‰ˆš‰™ˆ—ˆ“Œ“Œ“Œ’Œ’‹‘Œ’Œ‹‘Œ‹Œ‹ŒŽŒŽŒŽŒŒŒŒŒŽBE1ŒŽŒŽŒŽ›¥ˆœŒ™‹—‹˜‹“““’Œ‘‘‘ŒŒ‡ˆŽˆŽ‰Œ‰ŒŠŒŠ‹‹‰ŒŠ‹ˆ‡Œ‡†Ž…Ž„ƒŽ|SjŽ‘z’z’|“|­Š«Š©‰©‰Œœ‹›Œš‹™‹™‹˜Š™Š—Š–‰–‰”‰”ˆ’ˆ’ˆ‡‰ˆ‰Ž‰‰‰ŒŠ‹‰‹‹‰Š‰ŒˆŒ‡Œ†Ž……ŠŠ‘Š‘Š‘Š‘‹’Š’‹’‹“‹“‹“‹”‹”‹”Œ•Œ”‡›ˆœ‰‰ŸŠŸŠ¡‹¢‹¤¢Œ¢T›b™j—€”‚“…“†“‘…”†•ˆ”Š•“Ž’Ž“BE1Ž“““’”•’”’•“”””–”—“˜“¡•¡”™‘›’‘Ÿ’Ã”Ì’—‘£§‘’‘““‘’‘“’’Žy‘~¬‘§‘À”ª“š‘š’¢”¢”˜“–“–“•“””’”’””“’“’Ž“Ž’’“‰”‰”ˆ“†”|—{–…”Š„…’…’…”…”†–†–†—†˜ˆ˜Š˜Š˜Œ˜˜””””‘š‘”•’“‘”’“’“y’z’{“{”}•}•~–—‡”‡•‡•‰•‰•‰•Š•‹•‹–Œ–Œ•–Ž–Ž–––•‘”‘•’“’”““
+BE1““”’•’”‘–‘•‘‘•—–˜š›œŒœ‹‹žŠž‰ ˆ¬¬¬¬~¤‘£¢‘ ‘¬“›‘™’—‘—’–’•‘˜”’’’‘‘“‘“‘Ž’Ž’Œ“‹“‘Œ“Œ‘™z™~˜††’‡’†’‡”†”‡•‡–ˆ—†—ˆ˜Š˜Š˜Œ˜˜”•””‘™‘•”’”‘“’“’“y’z’{“{”}•}•~–—‡•‡”‡•‰•‰•‰•Š•‹–‹•Œ–Œ•–Ž–Ž–––•‘•‘”’”’“““““”’•’”‘–‘•‘‘‘•—BE1–˜Žš›œŒœ‹‹žŠž‰ ˆ¬‚¬€¬¬¤£¢‘ ‘¬“›‘™’—‘—’–’•’˜“’’’’‘’‘“‘Ž’Ž’Œ“‹“‘‘Œ’Œ’„––k z™Œ‘’‚’ƒ’…“†’Œ’“Ž“Ž”””‘””’”’““““““‘”‘••›œŽœŽŽœ‘•‘•’”‘”’“’“’““““‘•”Ž”Œ”Š—‡—‘ƒš›|œŒ†‘†’‡’ˆ’ˆ”ˆ“‰•Š”‰–Š—‹–Œ——Ž——˜‘•
+(status)
+L0(T)\0,0(T)M0,0(T)J0(T)FN0(T)TB50,0(T)
